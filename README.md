@@ -7,3 +7,5 @@ adding new comment.
 
 ok!
 
+it's added
+
